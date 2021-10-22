@@ -26,8 +26,8 @@ Users should be able to:
 
 ## It's mine
 
-![](./design/1.png)
-![](./design/2.png)
+![](./design/1.jpeg)
+![](./design/2.jpeg)
 
 ### Links
 
